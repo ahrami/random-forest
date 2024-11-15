@@ -1,4 +1,5 @@
-/venv
+venv
+.venv
 student_performance.zip
 gym.zip
 .ipynb_checkpoints/
